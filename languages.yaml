@@ -19,3 +19,10 @@ de:
       VIEW_MORE: Mehr sehen
     EVENTS:
       BUTTON: Erfahren Sie mehr
+cs:
+  PLUGIN_EVENTS:
+    CALENDAR:
+      TODAY: Dnes
+      VIEW_MORE: Více
+    EVENTS:
+      BUTTON: Zjistit víc
